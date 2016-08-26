@@ -1,2 +1,2 @@
-# challenges
-Here a repository to post some challenges solved
+# Challenges
+Here a repository to post some solved challenges 
